@@ -1,8 +1,8 @@
 {
+  "homepage": "http://WilliamJPriest.github.io/Circuit-Store",
   "name": "online-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WilliamJPriest.github.io/Circuit-Store",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
