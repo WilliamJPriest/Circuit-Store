@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Circuit-Store/static/css/main.cf17a61b.css",
+    "main.js": "/Circuit-Store/static/js/main.530ce3d8.js",
+    "static/media/slick.svg": "/Circuit-Store/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Circuit-Store/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Circuit-Store/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Circuit-Store/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Circuit-Store/index.html",
+    "main.cf17a61b.css.map": "/Circuit-Store/static/css/main.cf17a61b.css.map",
+    "main.530ce3d8.js.map": "/Circuit-Store/static/js/main.530ce3d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf17a61b.css",
+    "static/js/main.530ce3d8.js"
+  ]
+}
